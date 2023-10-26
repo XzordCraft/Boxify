@@ -1,0 +1,39 @@
+- Lines 41 to 54 - Added jscode for popup window settings
+- Line 68 = Commented out graphic index.html for top left corner of main page >> Replace with my graphic
+- Line 77 - Edited main presentation text >> Consider modifying in the future
+- Line ?? - Commented out "Menu" and hamburger icon for top right corner of main page >> Modify if I want to add more pages
+- Line 87 - Commented out video >> Consider making a video at a future date
+- Line 99 - Removed graphic png file name >> No future editing needed
+- Lines 107 to 118 - Edited presentation texts >> No future editing needed
+- Lines 106 to 110 coppied to 111 to 155 - >> No future editing needed
+- Line 109 - Coppied to lines 114 and 119 >> I may consider changing in the future
+- Lines 172 to 173, (also 172, 173, and 192, 193 * not sure of) - Edited presentation texts >> Review text for update in the future
+- >> Planned to edit "READ MORE" links on lines 159, 169, and 179 to load js child windows
+- Lines 203, 216, and 219 - Changed graphic jpg's without changing the html code >> No future editing needed
+- Lines 227 And 228 - edited presentation texts >> Review text for update in the future
+- Line 216 - Eited presentation quote text >> No future editing needed
+- Line 233 - Commented out >> No future editing needed
+- Line 233 - Changed graphic png file name >> No future editing needed
+- 247 and 248 - Edited text on lines  >> No future editing needed
+- Line 375 - Partially edited download link >> Future editing required
+- Line 384 - Changed link <a href="#download">Download</a> to <a href="#contact">Contact</a>
+- Line 392 - Added new link to cause popup, previous link is now line 393
+- Line 394 - Commented out link
+- Lines 401 to 406 - Added js code
+- Line 422 to 448 - Added js code for popup
+
+
+
+FUTURE:
+- Add links to page, see link formatting below
+- Add a popup window with email text box and send button to replace download button
+- Can I send email from github? (I think I can if I log into the site)
+- Reorient site content to represent the challenges facing canadian charities and the importance of data to solve those issue, read news articles
+- Setup A/B testing for content with duplicate site?
+- Add link tag to email link so that I know what customer followed link to website, and what website that saw for a/b testing
+- Remove or replace phone
+
+
+LINK FOMATTING:
+<a href="#" onclick="handleClick(event, 'link1')">Link 1</a>
+<a href="#" onclick="handleClick(event, 'link2')">Link 2</a>
